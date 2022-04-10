@@ -1,8 +1,12 @@
 ## Descripción
+![Kotlin Badge](https://img.shields.io/badge/MADE%20WITH-KOTLIN-blueviolet?style=for-the-badge&logo=kotlin)
 Práctica del módulo de **<span style="color:#ff7e63">"Fundamentos de Android"</span>** para el **KeepCoding Fullstack Mobile Developer Bootcamp**, en su 13ª edición.
 
-**Aplicación Android** (escrito en Kotlin) que muestra un menú inferior de navegación con las opciones: Heroes, con usando GridView; y Villanos, usando ListView. Pulsando sobre las imagenes de los personajes puedes acceder a una vista de detalle.
-
+**Aplicación Android** (escrita en Kotlin) que muestra un menú inferior de navegación con las opciones: 
+* Heroes, con usando ListView 
+* Villanos, usando GridView. 
+  
+Al pulsar sobre cada imagen de los personajes, se puede acceder a una vista de detalle.
 
 ## Arquitectura
 El **patrón de arquitectura** es **MVC**, siguiendo las indicaciones del profesor de este módulo, [@djardon ](https://github.com/djardon).
