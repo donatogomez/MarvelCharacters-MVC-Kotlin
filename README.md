@@ -1,7 +1,7 @@
 ## Descripción
 ![Kotlin Badge](https://img.shields.io/badge/MADE%20WITH-KOTLIN-blueviolet?style=for-the-badge&logo=kotlin)
 
-Práctica del módulo de **<span style="color:#ff7e63">"Fundamentos de Android"</span>** para el **KeepCoding Fullstack Mobile Developer Bootcamp**, en su 13ª edición.
+Práctica del módulo de **<span style="color:#ff7e63">Fundamentos de Android</span>** para el **KeepCoding Fullstack Mobile Developer Bootcamp**, en su 13ª edición.
 
 **Aplicación Android** (escrita en *Kotlin*) que muestra un menú inferior de navegación con las opciones: 
 * **Héroes**, con usando ListView.
@@ -14,6 +14,7 @@ El **patrón de arquitectura** es **MVC**, siguiendo las indicaciones del profes
 <div align="center">
 <img src="https://repository-images.githubusercontent.com/212913628/25312380-e72e-11e9-817e-db46671bf8d4">
 </div>
+
 ## Features
 * Splash Screen + barra de progreso.
 * Menú inferior de navegación.
