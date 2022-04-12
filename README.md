@@ -11,9 +11,9 @@ Al pulsar sobre cada imagen, se puede acceder a una vista de detalle.
 
 ## Arquitectura
 El **patrón de arquitectura** es **MVC**, siguiendo las indicaciones del profesor de este módulo, [@djardon ](https://github.com/djardon).
-
-![MVC](https://repository-images.githubusercontent.com/212913628/25312380-e72e-11e9-817e-db46671bf8d4)
-
+<div align="center">
+<img src="https://repository-images.githubusercontent.com/212913628/25312380-e72e-11e9-817e-db46671bf8d4">
+</div>
 ## Features
 * Splash Screen + barra de progreso.
 * Menú inferior de navegación.
@@ -21,7 +21,7 @@ El **patrón de arquitectura** es **MVC**, siguiendo las indicaciones del profes
 * Vista de detalle.
 
 ## Mockups
-<div style="text-align:center">
+<div align="center">
 <img src="https://github.com/donatogomez/MarvelCharactersMVC/blob/main/mockups/splash.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharactersMVC/blob/main/mockups/main.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/MarvelCharactersMVC/blob/main/mockups/detail.png" alt="drawing" width="250"/>
 </div>
 
